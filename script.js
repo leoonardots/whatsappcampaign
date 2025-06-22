@@ -1,4 +1,3 @@
-    const WEBHOOK_URL = 'https://n8nwh.dnsp.net/webhook/FU3jB09cZEtW3UAk8fevYcwlfn3s2RN5pLmCTSDPb9yoWzo3';
     let contentCounter = 0;
 
     // WhatsApp formatting functions
